@@ -1,0 +1,34 @@
+Smartphone Xiaomi Redmi 10,Xiaomi,849.90,171398015
+Televisor LG UHD 4K ThinQ AI,LG,2529.90,894262063
+Laptop HP OPP,HP,1799.90,346268701
+Refrigeradora 638Lt Side by Side Black,Samsung,3499.90,116169019
+Smartphone Xiaomi Redmi Note 11 Pro,Xiaomi,949.90,527812469
+Televisor Sony Bravia OLED 4K,Sony,2999.90,628493107
+Laptop Lenovo ThinkPad X1 Carbon,Lenovo,2299.90,938104256
+Refrigeradora 628Lt Side by Side Silver,Samsung,3299.90,461903827
+Camara Canon EOS 90D,Canon,1299.90,815293746
+Tablet Apple iPad Pro 12.9",Apple,1399.90,296851403
+Consola de Videojuegos PlayStation 5,Sony,599.90,730495628
+Auriculares Inalambricos Apple AirPods Pro,Apple,299.90,537619482
+Impresora Multifuncional HP LaserJet Pro,HP,349.90,912673401
+Monitor Gaming ASUS ROG Swift,ASUS,899.90,364527910
+Smartwatch Samsung Galaxy Watch 4,Samsung,379.90,724103856
+Altavoz Bluetooth JBL Flip 5,JBL,129.90,593846721
+Proyector Epson Home Cinema,Epson,799.90,835172406
+Router WiFi TP-Link Archer C9,TP-Link,149.90,481963275
+Disco Duro Externo WD Elements 2TB,WD,99.90,671509384
+Videocamara GoPro Hero 9 Black,GoPro,399.90,314726598
+Teclado Gaming Razer BlackWidow Elite,Razer,189.90,926305417
+Monitor Curvo Samsung Odyssey,Samsung,549.90,572816903
+Impresora 3D Creality Ender 3,Creality,279.90,437621039
+Barra de Sonido Bose Soundbar 700,Bose,799.90,865491326
+Raton Inalambrico Logitech MX Master,Logitech,99.90,317504926
+Camara de Seguridad Arlo Pro 4,Arlo,299.90,624930781
+Procesador AMD Ryzen 9,AMD,579.90,928461037
+Kit de Iluminacion Inteligente Philips Hue,Philips,199.90,736914205
+Escaner Documental Fujitsu ScanSnap,Fujitsu,449.90,219750368
+Kit de Realidad Virtual Oculus Quest 2,Oculus,349.90,581246930
+Disco SSD Samsung 1TB,Samsung,179.90,815602937
+Cargador Portatil Anker PowerCore,Anker,69.90,372840615
+Monitor UltraWide LG 34",LG,799.90,940275163
+Impresora Fotografica Canon Selphy,Canon,199.90,527316409

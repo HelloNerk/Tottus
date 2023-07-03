@@ -1,0 +1,34 @@
+Dinosaurio T-Rex,Mattel,84.90,746525891
+Barbie Dreamtopia Sirena,Mattel,149.90,672962017
+Monopoly Peru,Hasbro,129.90,135602728
+Jenga Clasico,Hasbro,79.90,246291106
+Dinosaurio T-Rex,Hasbro,84.90,527896314
+Muneca Baby Alive,Mattel,119.90,614207923
+Juego de construccion Lego Classic,LEGO,99.90,782419056
+Peluche Osito de Peluche,Giochi Preziosi,59.90,368912047
+Rompecabezas de 1000 piezas,Ravensburger,79.90,936147502
+Muneca LOL Surprise,MGA Entertainment,149.90,245710368
+Carro de Control Remoto Nikko,Nikko,169.90,726394815
+Set de Bloques de Construccion Mega Bloks,Mega Bloks,39.90,514709236
+Pelota de Futbol Adidas,Adidas,29.90,379615482
+Juego de Mesa UNO,Mattel,34.90,615028793
+Patineta de Madera,Top Skate,99.90,827401536
+Set de Pintura y Dibujo Crayola,Crayola,49.90,432609741
+Muneco de Accion Power Rangers,Hasbro,89.90,317695824
+Trompo de Madera,Trompos Space,19.90,762398541
+Juego de Mesa Pictionary,Hasbro,69.90,926103847
+Muneca Nancy Famosa,Famosa,109.90,641572309
+Carrito de Juguete Hot Wheels,Hot Wheels,24.90,843920156
+Peluche Minion,Universal Studios,49.90,501847629
+Juego de Construccion Meccano,Meccano,79.90,249618375
+Rompecabezas 3D de la Machu Picchu,Ravensburger,119.90,785410692
+Avion de Control Remoto Silverlit,Silverlit,199.90,578930412
+Kit de Ciencia y Experimentos Cientificos,Clementoni,89.90,743615029
+Muneco Bebe Lloron,Cry Babies,79.90,216709843
+Set de Figuras de Accion Marvel,Hasbro,149.90,492613807
+Rompecabezas de 500 piezas,Melissa & Doug,39.90,836241570
+Muneca Frozen 2 Disney,Disney,109.90,365728491
+Tren de Juguete Brio,Brio,129.90,940527361
+Juego de Mesa TEG,TEG,89.90,712495683
+Pelota de Volleyball Mikasa,Mikasa,49.90,527410693
+Juego de Construccion Playmobil,Playmobil,69.90,926510437

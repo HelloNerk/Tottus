@@ -1,0 +1,30 @@
+Juan,Perez,74561239,Surco,Lapicero,53274018,5.99
+Maria,Rodriguez,76852140,San Isidro,Cuaderno,27186509,8.75
+Carlos,Gomez,73451206,Miraflores,Libro,19253678,15.25
+Ana,Torres,71253908,San Borja,Lapiz,63482190,2.50
+Luisa,Castro,72468935,La Molina,Marcador,47382915,4.99
+Pedro,Sanchez,72981536,San Miguel,Regla,38710956,3.75
+Laura,Vargas,72149058,Barranco,Borrador,85673912,1.50
+Ricardo,Rojas,73169508,Magdalena,Calculadora,62154873,25.99
+Isabel,Flores,74710839,Pueblo Libre,Corrector,36218597,3.25
+Sergio,Herrera,70938561,Jesus Maria,Resaltador,49561320,2.99
+Carolina,Landa,74821596,San Juan de Lurigancho,Cuaderno,28367194,8.75
+Martin,Diaz,70283951,Surquillo,Lapicero,56129783,5.99
+Sofia,Mendoza,75981342,Miraflores,Libro,49813627,15.25
+David,Ruiz,74361985,San Isidro,Lapiz,61975482,2.50
+Patricia,Castro,71248956,La Molina,Marcador,32918564,4.99
+Alejandro,Vega,72791386,San Miguel,Regla,85623941,3.75
+Camila,Torres,71489562,Barranco,Borrador,16273849,1.50
+Daniel,Paredes,72563189,Magdalena,Calculadora,49361852,25.99
+Valeria,Rojas,73856124,Pueblo Libre,Corrector,28753619,3.25
+Diego,Herrera,71629843,Jesus Maria,Resaltador,63482915,2.99
+Natalia,Landa,74961235,San Juan de Lurigancho,Cuaderno,19847523,8.75
+Manuel,Diaz,70751239,Surquillo,Lapicero,52361798,5.99
+Gabriela,Mendoza,75538912,Miraflores,Libro,39812457,15.25
+Juanita,Gomez,73845619,San Isidro,Lapiz,63129847,2.50
+Mauricio,Castro,71123856,La Molina,Marcador,84572913,4.99
+Silvia,Sanchez,72913457,San Miguel,Regla,61529874,3.75
+Eduardo,Vargas,74361982,Barranco,Borrador,28917356,1.50
+Carolina,Rojas,72461935,Magdalena,Calculadora,52741369,25.99
+Gabriela,Flores,74932185,Pueblo Libre,Corrector,39748162,3.25
+Luis,Herrera,71549823,Jesus Maria,Resaltador,61248937,2.99

@@ -1,0 +1,34 @@
+Polo Manga Corta Unisex Adidas,Adidas,79.90,246208491
+Pantalon Jogger Unisex Bearcliff,Bearcliff,99.90,367151962
+Shorts Adidas Unisex Originals,Adidas,159.90,873591367
+Zapatillas Urbanas Unisex New Balance,New Balance,269.90,560285462
+Polo Manga Larga Unisex Adidas,Adidas,89.90,527896314
+Pantalon Jean Unisex Bearcliff,Bearcliff,99.90,614207923
+Shorts Nike Unisex Originals,Nike,149.90,782419056
+Zapatillas Urbanas Unisex New Star,New Star,149.90,368912047
+Blusa Estampada Mujer Ayres,Ayres,119.90,936147502
+Camisa de Vestir Hombre Index,Index,89.90,245710368
+Jeans Skinny Mujer Basement,Basement,139.90,726394815
+Polo Manga Larga Hombre Pionier,Pionier,59.90,514709236
+Vestido Casual Mujer Limonada,Limonada,49.90,379615482
+Chompa de Lana Hombre Belmond,Belmond,69.90,615028793
+Blazer Formal Mujer Vertigo,Vértigo,119.90,827401536
+Pantalon de Cuero Mujer Kuna,Kuna,199.90,432609741
+Polera Deportiva Hombre Sportek,Sportek,39.90,317695824
+Camiseta Estampada Mujer Studio F,Studio F,49.90,762398541
+Falda Plisada Mujer Ripley,Ripley,79.90,926103847
+Traje de Baño Hombre Klimax,Klimax,89.90,641572309
+Vestido de Noche Mujer Valeria,Belmond,159.90,843920156
+Polo Polo Unisex Bamba,Bamba,44.90,501847629
+Leggings Deportivos Mujer Everlast,Everlast,59.90,249618375
+Camisa Formal Hombre Fabrica de Camisas,Fabrica de Camisas,79.90,785410692
+Blusa de Encaje Mujer Muna,Muna,69.90,509287413
+Shorts Deportivos Hombre Fiara,Fiara,49.90,621403987
+Vestido de Fiesta Mujer Fascino,Fascino,229.90,861294726
+Sudadera con Capucha Unisex Urban Club,Urban Club,119.90,537946018
+Chaleco Acolchado Hombre Montero,Montero,99.90,268957431
+Conjunto Deportivo Mujer Zona Activa,Zona Activa,139.90,728463519
+Polo Polo Unisex Viuda de Franco,Viuda de Franco,44.90,179642305
+Blusa Casual Mujer Ellas,Ellas,59.90,651720984
+Chaqueta de Cuero Hombre Kuna,Kuna,249.90,895613247
+Vestido de Verano Mujer Index,Index,89.90,461732058

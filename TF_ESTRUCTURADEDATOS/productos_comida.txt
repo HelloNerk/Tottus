@@ -1,0 +1,34 @@
+Batimix Yogurt Vainilla,Gloria,3.50,462089970
+Nuggets Pechuga Redondos,Redondos,10.90,510618679
+Gaseosa Inca Kola 3L,Inca Kola,11.40,246287692
+Pan Karamanduka 12u,Tottus,6.90,458926042
+Leche evaporada Laive,Laive,4.25,368549217
+Arroz Integral Costa,Costa,5.90,725984631
+Aceite vegetal Primor,Primor,8.75,136579042
+Atun en lata Isabel,Isabel,3.20,920547613
+Galletas de avena San Jorge,San Jorge,4.50,628437910
+Mayonesa Gallito,Gallito,6.80,349618752
+Cafe molido Tunki,Tunki,12.50,589427136
+Azucar blanca Don Chusco,Don Chusco,3.60,742815693
+Salsa de tomate Delizia,Delizia,2.95,273906481
+Fideos cabello de angel Lucchetti,Lucchetti,1.80,496738251
+Salchichas El Trebol,El Trebol,7.25,817634592
+Queso Edam Mardos,Mardos,9.60,368125709
+Mantequilla Gloria,Gloria,6.70,509437826
+Mermelada de fresa San Jorge,San Jorge,3.95,961327805
+Pan de molde Bimbo,Bimbo,4.20,205689743
+Sopa instantanea Maggi,Maggi,2.50,463821974
+Cerveza Cusquena,Cusquena,9.50,815702463
+Harina de trigo El Dorado,El Dorado,3.80,627419385
+Yogurt natural Laive,Laive,2.90,408762951
+Sardinas enlatadas La Sirena,La Sirena,3.40,197583426
+Aceitunas Negras Don Joaquin,Don Joaquin,4.95,318942675
+Chocolate Sublime,Nestle,2.50,527649183
+Galletas de soda Oreo,Oreo,3.75,806942715
+Salsa de soja Kikkoman,Kikkoman,7.80,469328017
+Vinagre de manzana Castilla,Castilla,4.20,214795836
+Papas fritas San Jorge,San Jorge,3.50,661489702
+Cereal Corn Flakes Kellogg's,Kellogg's,6.90,587291046
+Jugo de naranja Inca's,Inca's,5.25,920367541
+Sal de mar Celta,Celta,2.30,371829405
+Sopa de pollo Maggi,Maggi,2.10,538904617
